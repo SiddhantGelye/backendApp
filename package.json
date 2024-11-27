@@ -3,12 +3,16 @@
   "version": "1.0.0",
   "description": "a full backend of youtube",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "backend"
   ],
   "author": "Siddhant",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
