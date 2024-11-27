@@ -1,0 +1,14 @@
+{
+  "name": "backendsetup",
+  "version": "1.0.0",
+  "description": "a full backend of youtube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Siddhant",
+  "license": "ISC"
+}
